@@ -15,3 +15,7 @@ this is Session 1
 6- commit id
 7- how to commits history - git log
 8- you should pull first    
+9- branches
+    - git branch to know your branch
+    - git branch <branch name> create branch
+    - git checkout <branch name> move to the new branch
