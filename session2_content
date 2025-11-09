@@ -7,13 +7,13 @@
                  HEAD
                   ||
            A- B - C
-> new Branch       \ X - Y -> merge
+>    new Branch       \ X - Y -> merge
 
     #three-ways
                  HEAD                                merge commit
                   ||                                  |
            A- B - C - M - N   #  A- B - C - M - N -X -Y
-> new Branch       \ X - Y -> merge
+>   new Branch       \ X - Y -> merge
 
                m-commit
                  | 
