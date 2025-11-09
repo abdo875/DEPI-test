@@ -19,3 +19,20 @@
                  | 
 main A - Z - B - X
     \B
+    
+
+Rebase 
+               H 
+               |
+      A - B - C          X  merge make x and change head to x but rebase take pointe and make it in M
+              \ K - L - M
+
+
+
+-> merge Vs Rebase     merge -> safe history    rebase -> clear history change pointer only
+
+
+
+workflow
+    1- release flow
+    2- git flow 
