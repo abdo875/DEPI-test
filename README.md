@@ -19,3 +19,14 @@ this is Session 1
     - git branch to know your branch
     - git branch <branch name> create branch
     - git checkout <branch name> move to the new branch
+
+
+Best Practise
+ -write **meaningful commit massage ** 
+ -use ,gitignore
+ -commit small
+ -use pull for teamwork to emnable code reviews
+ - visuable repo history
+ '''''bash
+ git log --oneline --graph --all
+ '''''   

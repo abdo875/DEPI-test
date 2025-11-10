@@ -41,11 +41,16 @@ workflow
 test PR    
 
 test abdo haalanddd
+---------
 
+pull request -> 
+ - to merge  directly to specific branch
+ - and you can add reviews or checks like (cicd) before merge
 
 
 
 -----
 Session 3:
 1- fork -> copy of repo account to be replicated in your account
-2- contribuations   ->  Manage who  has access in your Repo
+2- contribuations   ->  Manage who  has access in your Repo with role (read-write-triage-maintain-admin)
+3- .IgnoreFile -> ignore set of file to pushed to the branch to protect your code ceare
